@@ -1,0 +1,14 @@
+.venv/
+old/
+datasets/
+images/
+embeddings/
+output/
+.env
+.code-workspace
+*.kv
+*.npy
+*.pth
+*.pt
+*.pth.tar
+*.pth.tar.gz
