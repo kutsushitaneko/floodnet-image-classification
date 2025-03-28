@@ -1,0 +1,8 @@
+Pillow
+tqdm
+pandas
+cohere
+python-dotenv
+scipy
+scikit-learn
+Jinja2

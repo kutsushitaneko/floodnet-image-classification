@@ -1,11 +1,9 @@
 .venv/
-old/
 datasets/
-images/
-embeddings/
-output/
+with_output/
 .env
-.code-workspace
+*.code-workspace
+*.csv
 *.kv
 *.npy
 *.pth
