@@ -1,4 +1,4 @@
-# 画像分類プロジェクト
+# ドローン空撮画像から洪水を見つける（Cohere Multimodal Embed 3）
 
 このプロジェクトは、Cohere 社のマルチモーダル埋め込みモデルの Cohere Embed を使って、FloodNet Datasetの画像を洪水とそうでないものに分類するものです。
 
