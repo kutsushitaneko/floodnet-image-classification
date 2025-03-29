@@ -1,6 +1,6 @@
 # 画像分類プロジェクト
 
-このプロジェクトは、マルチモーダル埋め込みモデルの Cohere Embed を使って、FloodNet Datasetの画像を洪水とそうでないものに分類するものです。
+このプロジェクトは、Cohere 社のマルチモーダル埋め込みモデルの Cohere Embed を使って、FloodNet Datasetの画像を洪水とそうでないものに分類するものです。
 
 ## プロジェクト構成
 
@@ -8,7 +8,7 @@
 - `200_generate_image_embeddings.ipynb`: 画像の埋め込みベクトルを生成するノートブック
 - `300_classify_image.ipynb`: 画像の分類を実行するノートブック
 - `datasets/`: 画像データセットを格納するディレクトリ
-- `with_output/`: 出力結果を格納するディレクトリ
+- `with_output/`: （参考）出力結果を残したノートブックを格納したディレクトリ
 
 ## 必要な環境
 
