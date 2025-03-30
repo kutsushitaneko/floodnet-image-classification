@@ -2,6 +2,8 @@
 
 このプロジェクトは、Cohere 社のマルチモーダル埋め込みモデルの Cohere Embed を使って、FloodNet Datasetの画像を洪水とそうでないものに分類するものです。
 
+<img src="https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/74534/3835db04-7dab-447d-9062-1b96974d8105.png" width="512" height="512" alt="ドローン空撮画像を洪水判定してみる（Cohere Multimodal Embed 3）">
+
 ## プロジェクト構成
 
 - `100_generate_image_labels.ipynb`: 画像のラベル生成を行うノートブック
